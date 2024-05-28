@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    align-content: center;
+}
+
+h1 {
+    width: 100%;
+    color: black;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    height: 20%;
+  
+}
